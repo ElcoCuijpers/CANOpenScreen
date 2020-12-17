@@ -21,7 +21,7 @@ PATH:=D:/Programfiles/Microchip/MPLABX/v5.45/mplab_platform/platform/../mplab_id
 # Path to java used to run MPLAB X when this makefile was created
 MP_JAVA_PATH="D:\Programfiles\Microchip\MPLABX\v5.45\sys\java\zulu8.40.0.25-ca-fx-jre8.0.222-win_x64/bin/"
 OS_CURRENT="$(shell uname -s)"
-MP_CC="D:\Programfiles\Microchip\xc32\v2.50\bin\xc32-gcc.exe"
+MP_CC="D:\Programfiles\Microchip\xc32\v2.50\bin\xc32-g++.exe"
 MP_CPPC="D:\Programfiles\Microchip\xc32\v2.50\bin\xc32-g++.exe"
 # MP_BC is not defined
 MP_AS="D:\Programfiles\Microchip\xc32\v2.50\bin\xc32-as.exe"
